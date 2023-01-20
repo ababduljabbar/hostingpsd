@@ -224,6 +224,7 @@ a.meanmenu-reveal.meanclose {
 }
 .slider {
   position: relative;
+  top: -5px;
 }
 
 .slider-content {
